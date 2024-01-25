@@ -8,9 +8,6 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 We use web scraping to get the reviews given by the user in the IMDB site using beautifulsoup4 and performed sentiment analysis on those reviews.
 
 
-
-• This repository consists of files required to deploy A Virtual AI Keyboard
-
 • Please do ⭐ the repository, if it helped you in anyway.
 ![Logo](https://github.com/Farheen-Arsalan/Netflix_Recommander_System/blob/main/Netflix-Recoomandation-system.png?raw=true)
 
